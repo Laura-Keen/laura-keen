@@ -1,5 +1,5 @@
-## Junior Software Developer
+## Hi, I'm Laura!
+### Currently working as a Full-Stack Developer for Inktrap
 
-### Makers graduate Currently looking for my first job in tech!
 
-Find me on [LinkedIn](www.linkedin.com/in/laurakeen) or check out my [CV](https://github.com/Laura-Keen/CV.git)😄
+Find me on [LinkedIn](www.linkedin.com/in/laurakeen) 
