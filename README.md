@@ -1,4 +1,4 @@
-## Hi, I'm Laura!
+## Laura Keen
 ### Currently working as a Full-Stack Developer for Inktrap
 
 
