@@ -2,4 +2,4 @@
 ### Full stack developer
 
 
-Find me on [LinkedIn](https://linkedin.com/in/laurakeen) 
+Checkout my [personal site](https://laurakeen.co.uk/) or find me on [LinkedIn](https://linkedin.com/in/laurakeen) 
